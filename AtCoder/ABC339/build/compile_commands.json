@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/OneDrive/Projects/ACM/AtCoder/ABC339/build",
+  "command": "D:\\msys64\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\ABC339.dir\\main.cpp.obj -c D:\\OneDrive\\Projects\\ACM\\AtCoder\\ABC339\\main.cpp",
+  "file": "D:/OneDrive/Projects/ACM/AtCoder/ABC339/main.cpp",
+  "output": "CMakeFiles/ABC339.dir/main.cpp.obj"
+}
+]

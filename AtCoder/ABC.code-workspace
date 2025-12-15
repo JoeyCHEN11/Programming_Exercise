@@ -1,0 +1,147 @@
+{
+	"folders": [
+		{
+			"name": "ABC335",
+			"path": "ABC335"
+		},
+		{
+			"name": "ABC336",
+			"path": "ABC336"
+		},
+		{
+			"name": "ABC337",
+			"path": "ABC337"
+		},
+		{
+			"name": "ABC338",
+			"path": "ABC338"
+		},
+		{
+			"name": "ABC339",
+			"path": "ABC339"
+		},
+		{
+			"name": "ABC340",
+			"path": "ABC340"
+		},
+		{
+			"name": "ABC341",
+			"path": "ABC341"
+		},
+		{
+			"name": "ABC342",
+			"path": "ABC342"
+		},
+		{
+			"name": "ABC343",
+			"path": "ABC343"
+		},
+		{
+			"name": "ABC344",
+			"path": "ABC344"
+		},
+		{
+			"name": "ABC345",
+			"path": "ABC345"
+		},
+		{
+			"name": "ABC346",
+			"path": "ABC346"
+		},
+		{
+			"name": "ABC347",
+			"path": "ABC347"
+		},
+		{
+			"name": "ABC348",
+			"path": "ABC348"
+		},
+		{
+			"name": "ABC349",
+			"path": "ABC349"
+		},
+		{
+			"name": "ABC350",
+			"path": "ABC350"
+		},
+		{
+			"name": "ABC351",
+			"path": "ABC351"
+		},
+		{
+			"name": "ABC352",
+			"path": "ABC352"
+		},
+		{
+			"name": "ABC353",
+			"path": "ABC353"
+		},
+		{
+			"name": "ABC354",
+			"path": "ABC354"
+		},
+		{
+			"name": "ABC355",
+			"path": "ABC355"
+		},
+		{
+			"name": "Notes",
+			"path": "Notes"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"ostream": "cpp",
+			"iostream": "cpp",
+			"array": "cpp",
+			"atomic": "cpp",
+			"bit": "cpp",
+			"*.tcc": "cpp",
+			"cctype": "cpp",
+			"clocale": "cpp",
+			"cmath": "cpp",
+			"compare": "cpp",
+			"concepts": "cpp",
+			"cstdarg": "cpp",
+			"cstddef": "cpp",
+			"cstdint": "cpp",
+			"cstdio": "cpp",
+			"cstdlib": "cpp",
+			"cstring": "cpp",
+			"cwchar": "cpp",
+			"cwctype": "cpp",
+			"deque": "cpp",
+			"string": "cpp",
+			"unordered_map": "cpp",
+			"vector": "cpp",
+			"exception": "cpp",
+			"algorithm": "cpp",
+			"functional": "cpp",
+			"iterator": "cpp",
+			"memory": "cpp",
+			"memory_resource": "cpp",
+			"numeric": "cpp",
+			"random": "cpp",
+			"string_view": "cpp",
+			"system_error": "cpp",
+			"tuple": "cpp",
+			"type_traits": "cpp",
+			"utility": "cpp",
+			"initializer_list": "cpp",
+			"iosfwd": "cpp",
+			"istream": "cpp",
+			"limits": "cpp",
+			"new": "cpp",
+			"numbers": "cpp",
+			"stdexcept": "cpp",
+			"streambuf": "cpp",
+			"typeinfo": "cpp",
+			"iomanip": "cpp",
+			"ctime": "cpp",
+			"list": "cpp",
+			"map": "cpp",
+			"set": "cpp",
+			"sstream": "cpp"
+		}
+	}
+}

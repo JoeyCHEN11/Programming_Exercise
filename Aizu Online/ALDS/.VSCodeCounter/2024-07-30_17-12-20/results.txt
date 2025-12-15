@@ -1,0 +1,115 @@
+Date : 2024-07-30 17:12:20
+Directory : d:\OneDrive\Projects\ACM\Aizu Online\ALDS
+Total : 91 files,  5002 codes, 939 comments, 1130 blanks, all 7071 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| C++      |         91 |      5,002 |        939 |      1,130 |      7,071 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++----------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                               | files      | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                  |         91 |      5,002 |        939 |      1,130 |      7,071 |
++----------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++----------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                                           | language | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\ALDS1_10_A_Fibonacci Number.cpp                          | C++      |         25 |          7 |         13 |         45 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\ALDS1_10_B_Matrix Chain Multiplication.cpp               | C++      |         27 |          1 |          7 |         35 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\ALDS1_10_C_Longest Common Subsequence.cpp                | C++      |         27 |          1 |          8 |         36 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\ALDS1_10_D_Optimal Binary Search Tree.cpp                | C++      |         41 |          3 |          9 |         53 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\ALDS1_11_A_Graph.cpp                                     | C++      |         22 |          0 |          4 |         26 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\ALDS1_11_B_Depth First Search.cpp                        | C++      |         70 |         15 |         13 |         98 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\ALDS1_11_C_Breadth First Search.cpp                      | C++      |         40 |          0 |         13 |         53 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\ALDS1_11_D_Connected Components.cpp                      | C++      |        104 |         16 |         18 |        138 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\ALDS1_12_A_Minimum Spanning Tree.cpp                     | C++      |         55 |          6 |         17 |         78 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\ALDS1_12_B_Single Source Path 1.cpp                      | C++      |         60 |          4 |         18 |         82 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\ALDS1_12_C_Single Source Path 2.cpp                      | C++      |         79 |         15 |         21 |        115 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\ALDS1_13_A_8 Queens Problem.cpp                          | C++      |         73 |          8 |         12 |         93 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\ALDS1_13_B_8 Puzzle.cpp                                  | C++      |         92 |          5 |         18 |        115 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\ALDS1_13_C_15 Puzzle.cpp                                 | C++      |        148 |         16 |         23 |        187 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\ALDS1_13_C_15 Puzzle_ASTAR.cpp                           | C++      |        104 |          8 |         16 |        128 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\ALDS1_15_C_Activity Selection Problem.cpp                | C++      |         30 |          0 |          8 |         38 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\ALDS1_15_D_Huffman Coding.cpp                            | C++      |         24 |          6 |         10 |         40 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\ALDS1_1_A_Insertion Sort.cpp                             | C++      |         28 |         24 |          5 |         57 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\ALDS1_1_B_Greatest Common Divisior.cpp                   | C++      |         23 |          0 |          6 |         29 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\ALDS1_1_C_Prime Number.cpp                               | C++      |         23 |          1 |          5 |         29 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\ALDS1_1_D_Maximum Profit.cpp                             | C++      |         16 |          1 |          1 |         18 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\ALDS1_2_A_Bubble Sort.cpp                                | C++      |         29 |         45 |          2 |         76 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\ALDS1_2_B_Selection Sort.cpp                             | C++      |         27 |          0 |          0 |         27 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\ALDS1_2_C_Stable Sort.cpp                                | C++      |         65 |          0 |         18 |         83 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\ALDS1_2_D_Shell Sort.cpp                                 | C++      |         44 |         13 |          7 |         64 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\ALDS1_3_A_Stack.cpp                                      | C++      |         37 |          0 |          4 |         41 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\ALDS1_3_B_Queue.cpp                                      | C++      |         50 |          1 |          7 |         58 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\ALDS1_3_C_Doubly Linked List.cpp                         | C++      |         73 |          0 |          7 |         80 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\ALDS1_3_D_ Areas on the Cross-Section Diagram.cpp        | C++      |         34 |         56 |          5 |         95 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\ALDS1_4_A_Linear Search.cpp                              | C++      |         22 |          1 |          4 |         27 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\ALDS1_4_B_Binary Search.cpp                              | C++      |         27 |          3 |          3 |         33 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\ALDS1_4_C_Dictionary(Hash Map).cpp                       | C++      |         63 |        181 |          6 |        250 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\ALDS1_4_D_Allocation.cpp                                 | C++      |         38 |         58 |          2 |         98 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\ALDS1_5_A_Exhaustive Search.cpp                          | C++      |         22 |         43 |          2 |         67 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\ALDS1_5_B_Merge Sort.cpp                                 | C++      |         55 |         14 |          7 |         76 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\ALDS1_5_C_Koch Curve.cpp                                 | C++      |         37 |         53 |         11 |        101 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\ALDS1_5_D_The Number of Inversions.cpp                   | C++      |         47 |         11 |          7 |         65 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\ALDS1_6_A_Counting Sort.cpp                              | C++      |         34 |          0 |          2 |         36 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\ALDS1_6_B_Partition.cpp                                  | C++      |         43 |          1 |          4 |         48 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\ALDS1_6_C_Quick Sort.cpp                                 | C++      |         95 |         11 |         10 |        116 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\ALDS1_6_D_Minimum Cost Sort.cpp                          | C++      |         42 |         10 |          4 |         56 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\ALDS1_7_A_Rooted Tree.cpp                                | C++      |         61 |         17 |         10 |         88 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\ALDS1_7_B_Binary Tree.cpp                                | C++      |         68 |          3 |         11 |         82 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\ALDS1_7_C_Tree Walk.cpp                                  | C++      |         56 |          1 |          9 |         66 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\ALDS1_7_D_Reconstruction of the Tree copy.cpp            | C++      |         49 |         12 |         12 |         73 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\ALDS1_8_A_Binary Search Tree 1(insert).cpp               | C++      |         58 |          0 |         11 |         69 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\ALDS1_8_A_Binary Search Tree 2(search).cpp               | C++      |         70 |          1 |         11 |         82 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\ALDS1_8_A_Binary Search Tree 3(delete).cpp               | C++      |        105 |         54 |         25 |        184 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\ALDS1_9_A_Complete Binary Tree.cpp                       | C++      |         23 |          0 |          6 |         29 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\ALDS1_9_B_Maximum Heap.cpp                               | C++      |         35 |          0 |          6 |         41 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\ALDS1_9_C_Priority Queue.cpp                             | C++      |         50 |         64 |          7 |        121 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\CGL_1_A_Projection.cpp                                   | C++      |         61 |          2 |         22 |         85 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\CGL_1_B_Reflection.cpp                                   | C++      |         65 |          2 |         21 |         88 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\CGL_1_C_Counter-CLockwise.cpp                            | C++      |        108 |          2 |         24 |        134 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\CGL_2_A_Parallel_Orthogonal.cpp                          | C++      |         56 |          1 |         23 |         80 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\CGL_2_B_Intersection.cpp                                 | C++      |         94 |          2 |         24 |        120 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\CGL_2_C_Cross Point.cpp                                  | C++      |        101 |          3 |         25 |        129 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\CGL_2_D_Distance.cpp                                     | C++      |         92 |          3 |         24 |        119 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\CGL_3_C_Polygon-Point Containment.cpp                    | C++      |        141 |          8 |         35 |        184 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\CGL_4_A_Convex Hull.cpp                                  | C++      |        167 |         14 |         46 |        227 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\CGL_6_A_Segment Intersections_Manhattan Geometry.cpp     | C++      |         88 |          5 |         20 |        113 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\CGL_7_D_Cross Points of a Circle and a Line.cpp          | C++      |        118 |          4 |         30 |        152 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\CGL_7_E_Cross Points of Circles.cpp                      | C++      |        119 |          7 |         37 |        163 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\DPL_1_A_Coin Changing Problem.cpp                        | C++      |         29 |         10 |         16 |         55 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\DPL_1_B_0-1 Knapsack Problem.cpp                         | C++      |         55 |          6 |         18 |         79 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\DPL_1_D_Longest Increasing Subsequence.cpp               | C++      |         59 |         16 |         13 |         88 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\DPL_3_A_Largest Square.cpp                               | C++      |         47 |          7 |         12 |         66 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\DPL_3_B_Largest Rectangle.cpp                            | C++      |         53 |          3 |         12 |         68 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\DSL_1_A_Disjoint Set_Union Find Tree.cpp                 | C++      |         60 |          0 |         14 |         74 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\DSL_2_C_Range Search (kD Tree).cpp                       | C++      |         77 |          3 |         28 |        108 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\GRL_1_B_Single Source Shortest Path (Negative Edges).cpp | C++      |         45 |          0 |          9 |         54 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\GRL_1_C_All Pairs Shortest Path.cpp                      | C++      |         48 |          3 |         11 |         62 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\GRL_2_A_Minimum Spanning Tree.cpp                        | C++      |        104 |          9 |         34 |        147 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\GRL_3_A_Articulation Point.cpp                           | C++      |         78 |          5 |         25 |        108 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\GRL_3_C_Strongly Connected Components.cpp                | C++      |         62 |          3 |         16 |         81 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\GRL_4_B_Topological Sort.cpp                             | C++      |         67 |          3 |         20 |         90 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\GRL_5_A_Diameter of a Tree.cpp                           | C++      |         57 |          0 |         19 |         76 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\NTL_1_A_Prime Factorization.cpp                          | C++      |         24 |          0 |          7 |         31 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\NTL_1_B_Power.cpp                                        | C++      |         27 |          0 |          7 |         34 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\NTL_1_C_Least Common Multiple.cpp                        | C++      |         28 |          0 |          5 |         33 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\STL_MAP.cpp                                              | C++      |         37 |          2 |          8 |         47 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\STL_Priority_queue.cpp                                   | C++      |         22 |          3 |          7 |         32 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\STL_SET(BST).cpp                                         | C++      |         28 |          1 |          4 |         33 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\STL_Vector.cpp                                           | C++      |         35 |          1 |          8 |         44 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\Template_Chap16_Geometry.cpp                             | C++      |         37 |          1 |         15 |         53 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\TestIterator.cpp                                         | C++      |         26 |          0 |          2 |         28 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\TestLowerBound.cpp                                       | C++      |         15 |          1 |          1 |         17 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\TestRecursive.cpp                                        | C++      |         23 |          0 |          2 |         25 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\p_s_Dynamic_Programming_1_5_A_recall.cpp                 | C++      |         49 |         16 |          9 |         74 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\testLamda.cpp                                            | C++      |         17 |          1 |          6 |         24 |
+| d:\OneDrive\Projects\ACM\Aizu Online\ALDS\tester.cpp                                               | C++      |         13 |          2 |          6 |         21 |
+| Total                                                                                              |          |      5,002 |        939 |      1,130 |      7,071 |
++----------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+

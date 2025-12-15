@@ -1,0 +1,5 @@
+s = input()
+bx, by = s.find('B'), s.rfind('B')
+rx, ry = s.find('R'), s.rfind('R')
+ki = s.find('K')
+print('Yes' if (bx + by) & 1 and rx < ki < ry else 'No')
