@@ -1,8 +1,0 @@
-[
-{
-  "directory": "D:/OneDrive/Projects/ACM/AtCoder/ABC352/build",
-  "command": "D:\\msys64\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\ABC352.dir\\main.cpp.obj -c D:\\OneDrive\\Projects\\ACM\\AtCoder\\ABC352\\main.cpp",
-  "file": "D:/OneDrive/Projects/ACM/AtCoder/ABC352/main.cpp",
-  "output": "CMakeFiles/ABC352.dir/main.cpp.obj"
-}
-]

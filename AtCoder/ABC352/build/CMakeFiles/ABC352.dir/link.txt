@@ -1,3 +1,0 @@
-"D:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\ABC352.dir/objects.a
-D:\msys64\mingw64\bin\ar.exe qc CMakeFiles\ABC352.dir/objects.a @CMakeFiles\ABC352.dir\objects1.rsp
-D:\msys64\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\ABC352.dir/objects.a -Wl,--no-whole-archive -o ABC352.exe -Wl,--out-implib,libABC352.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ABC352.dir\linkLibs.rsp
