@@ -12,8 +12,10 @@ The problem list was created based on the textbook [プログラミングコン�
 
 Practice code for some problems on [AtCoder Beginner Contest](https://atcoder.jp/contests/archive?ratedType=1&category=0&keyword=).
 
-* I switched to Python when I was practicing on this site..
+* I switched to Python when I was practicing on this site.
 
 ## LeetCode
 
 Practice code for some problems on [LeetCode](https://leetcode.com/)
+
+The generated file with question relies one extention [vscode-leetcode](https://github.com/LeetCode-OpenSource/vscode-leetcode)
