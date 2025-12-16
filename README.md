@@ -18,4 +18,4 @@ Practice code for some problems on [AtCoder Beginner Contest](https://atcoder.jp
 
 Practice code for some problems on [LeetCode](https://leetcode.com/)
 
-The generated file with question relies one extention [vscode-leetcode](https://github.com/LeetCode-OpenSource/vscode-leetcode)
+The generated file with question relies on the extension [vscode-leetcode](https://github.com/LeetCode-OpenSource/vscode-leetcode)
