@@ -31,7 +31,7 @@ void dfs_visit_iter(int u){
 
         // for(auto top_node = DFS.top(); top_node.second<=n; top_node = DFS.top()){
         //     if(G[top_node.first][top_node.second]!=0 && d[top_node.second] == 0){
-        //         //cout<<"find "<<top_node.second<<endl;
+        //        // cout<<"find "<<top_node.second<<endl;
         //         d[top_node.second] = ++time_slot;
         //         DFS.top().second++;
         //         DFS.push(make_pair(top_node.second,1));
