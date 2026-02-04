@@ -244,3 +244,4 @@ __marimo__/
 .vscode
 debug/
 bin/
+secret/

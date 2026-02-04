@@ -245,6 +245,7 @@ def cross_points(*args, **kwargs) -> tuple[Point, Point]:
     elif isinstance(args[1], Circle):
         c1, c2 = args
         d = (c1.c - c2.c).abs()
+        # 余弦定理
         a = acos((c1.r * c1.r + d * d - c2.r * c2.r) / (2 * c1.r * d))
         t = arg(c2.c - c1.c)
         return (c1.c + polar(c1.r, t + a), c1.c + polar(c1.r, t - a))
@@ -282,6 +283,7 @@ def andrew_scan(points: list[Point]) -> Polygon:
     """
     if(len(points) < 3):
         return Polygon(points)
+    #                       按y排序: 分左右半区
     points.sort(key = lambda p: Point(p.y, p.x))
     n = len(points)
     up, low = [], []
