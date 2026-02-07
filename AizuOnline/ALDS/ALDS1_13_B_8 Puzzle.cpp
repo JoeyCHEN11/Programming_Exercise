@@ -87,7 +87,7 @@ public:
                 if(!u.movable(dir)) continue;
                 else {
                     v = u;
-                    v.solved();
+                    // v.solved();
                     v.move_toawrd(dir);
                     // cout<<v.path<<endl;
                     if(!check[v]){
